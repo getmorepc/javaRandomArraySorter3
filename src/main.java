@@ -1,6 +1,6 @@
 /**
  * Created by danielbuchanan on 1/23/16. this little applet should create an array of 8 with
- * random numbers from 1-100. That array should then be sorted from low to high.
+ * random numbers from 1-1000. That array should then be sorted from low to high.
  *
  */
 import java.util.Random;
